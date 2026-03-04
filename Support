@@ -1,0 +1,23 @@
+⏺ <!DOCTYPE html>                                                                                         
+  <html lang="en">                       
+  <head>                                                                                                  
+      <meta charset="UTF-8">                                
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">                              
+      <title>PDFio - Support</title>                        
+      <style>
+          body { font-family: -apple-system, sans-serif; max-width: 700px; margin: 60px auto; padding: 0
+  20px; color: #333; line-height: 1.7; }
+          h1 { color: #1a1a1a; }
+          h2 { margin-top: 40px; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+          a { color: #007aff; }
+      </style>
+  </head>
+  <body>
+      <h1>PDFio</h1>
+      <p>A lightweight PDF viewer and editor for macOS.</p>
+
+      <h2>Support</h2>
+      <p>For questions or feedback, email: <a href="mailto:morkfay@gmail.com">morkfay@gmail.com</a></p>
+  </body>
+  </html>
+
